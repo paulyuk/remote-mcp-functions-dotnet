@@ -36,6 +36,9 @@ If you're looking for this sample in more languages check out the [Node.js/TypeS
   + [Visual Studio Code](https://code.visualstudio.com/)
   + [Azure Functions extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions)
 
+Below is the architecture diagram for the Remote MCP Server using Azure Functions:
+
+![Architecture Diagram](architecture-diagram.png)
 
 ## Prepare your local environment
 
