@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="remote-mcp-functions" name="Remote MCP Functions Architecture">
-        <mxGraphModel dx="1004" dy="615" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+        <mxGraphModel dx="1525" dy="1077" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -22,11 +22,8 @@
                 <mxCell id="arguments-tool" value="&lt;b&gt;mcpToolTriggerWithArguments&lt;/b&gt;&lt;br&gt;MCP Tool with Arguments Example" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="mcp-tools-container" vertex="1">
                     <mxGeometry x="200" y="50" width="200" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="zod-tool" value="&lt;b&gt;mcpServerTriggerZodSupport&lt;/b&gt;&lt;br&gt;MCP Tool with Zod Validation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="mcp-tools-container" vertex="1">
-                    <mxGeometry x="200" y="130" width="200" height="50" as="geometry"/>
-                </mxCell>
                 <mxCell id="tool-registry" value="MCP Tool Registry&#xa;app.mcpTool()" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" parent="mcp-tools-container" vertex="1">
-                    <mxGeometry x="200" y="210" width="200" height="50" as="geometry"/>
+                    <mxGeometry x="200" y="130" width="200" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="mcp-clients" value="MCP Clients" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;startSize=30;fontSize=14;fontStyle=1;swimlaneFillColor=#F5F5F5;" parent="1" vertex="1">
                     <mxGeometry x="40" y="160" width="170" height="220" as="geometry"/>
