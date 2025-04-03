@@ -73,6 +73,10 @@ Note by default this will use the webhooks route: `/runtime/webhooks/mcp/sse`.  
 1. In Copilot chat agent mode enter a prompt to trigger the tool, e.g., select some code and enter this prompt
 
     ```plaintext
+    Say Hello 
+    ```
+
+    ```plaintext
     Save this snippet as snippet1 
     ```
 
