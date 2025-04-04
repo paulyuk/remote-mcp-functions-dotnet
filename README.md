@@ -10,7 +10,7 @@ languages:
 products:
 - azure-functions
 - azure
-urlFragment: remote-mcp-python-functions
+urlFragment: remote-mcp-functions-dotnet
 ---
 -->
 
