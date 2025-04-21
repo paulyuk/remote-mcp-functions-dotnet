@@ -31,7 +31,7 @@ If you're looking for this sample in more languages check out the [Node.js/TypeS
 ## Prerequisites
 
 + [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
-+ [Azure Functions Core Tools](https://learn.microsoft.com/azure/azure-functions/functions-run-local?pivots=programming-language-csharp#install-the-azure-functions-core-tools)
++ [Azure Functions Core Tools](https://learn.microsoft.com/azure/azure-functions/functions-run-local?pivots=programming-language-csharp#install-the-azure-functions-core-tools) >= `4.0.7030`
 + [Azure Developer CLI](https://aka.ms/azd)
 + To use Visual Studio to run and debug locally:
   + [Visual Studio 2022](https://visualstudio.microsoft.com/vs/).
