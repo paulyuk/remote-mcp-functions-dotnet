@@ -225,7 +225,7 @@ public string SaveSnippet(
 
 ## Next Steps
 
-- Add [API Management]() to your MCP server
-- Add [EasyAuth]() to your MCP server
+- Add [API Management](https://github.com/Azure-Samples/remote-mcp-apim-functions-python) to your MCP server
+- Add [EasyAuth](https://learn.microsoft.com/en-us/azure/app-service/overview-authentication-authorization) to your MCP server
 - Enable VNET using VNET_ENABLED=true flag
-- Learn more about [related MCP efforts from Microsoft]()
+- Learn more about [related MCP efforts from Microsoft](https://github.com/microsoft/mcp/tree/main/Resources)
