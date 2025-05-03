@@ -5,7 +5,7 @@ using static FunctionsSnippetTool.ToolsInformation;
 
 namespace FunctionsSnippetTool;
 
-public class HelloTool(ILogger<SnippetsTool> logger)
+public class HelloTool(ILogger<HelloTool> logger)
 {
     [Function(nameof(SayHello))]
     public string SayHello(
